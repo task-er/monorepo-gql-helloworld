@@ -109,3 +109,11 @@ prettier 세팅
   ...
   }
 ```
+
+```
+  $ npx lerna init --independent
+```
+
+```
+  $ npx lerna run start
+```
